@@ -1,0 +1,22 @@
+type: hyperskill
+title: Chalkboard Printer
+language: English
+summary: "<p>If you remember the Simpsons intro, you know there is a running joke\
+  \ about Bart Simpson writing sentences on a chalkboard as a punishment.\_Similarly,\
+  \ this project aims to recreate that humorous experience by developing a JavaScript\
+  \ program that prints various jokes to the console.\_</p>"
+programming_language: JavaScript
+content:
+  - Chalkboard Printer
+  - Topics
+additional_files:
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+  - name: node_modules/sync-input/LICENSE
+  - name: node_modules/sync-input/index.js
+  - name: node_modules/sync-input/README.md
+  - name: node_modules/sync-input/package.json
+  - name: package.json
+  - name: requirements.txt
+  - name: package-lock.json
+mode: Study
+yaml_version: 4
